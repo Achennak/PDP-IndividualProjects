@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="out6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/StartChessPiece/out/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/StartChessPiece/out/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/StartChessPiece/out/package-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

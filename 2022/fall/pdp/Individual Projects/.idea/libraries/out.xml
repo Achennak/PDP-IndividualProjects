@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="out">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BigIntegralNumbers/out/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BigIntegralNumbers/out/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/BigIntegralNumbers/out/member-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
